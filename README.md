@@ -24,3 +24,6 @@ Airline booking system is the database management system for an airline company.
 * [DDL.sql](DDL.sql) - Creating table statements
 * [QueryScirpt](QueryScript.sql) - Query statements
 * [data.sql](data.sql) - Insert data statements
+
+## Execution
+## Visualisation
